@@ -13,9 +13,9 @@ Este repositorio contiene un proyecto Next.js. Sigue estos pasos para configurar
    ```bash
    git clone <url-del-repositorio>
    cd <nombre-de-la-carpeta>
-Instalar Dependencias:
+## Instalar Dependencias:
 npm install
-Comandos Disponibles
+## Comandos Disponibles
 npm run dev
 Ejecuta el servidor de desarrollo de Next.js. Puedes ver tu aplicación en tiempo real mientras realizas cambios.
 npm run dev
@@ -27,11 +27,12 @@ bash
 Copy code
 npm run build
 
-Contribución
+##Contribución
 Si deseas contribuir a este proyecto, por favor sigue estas directrices:
 
 Crea una nueva rama (git checkout -b feature/nueva-caracteristica)
 Realiza tus cambios
+
 Haz commit a tus cambios (git commit -am 'Añadir nueva característica')
 Sube tus cambios (git push origin feature/nueva-caracteristica)
 Abre una solicitud de extracción
