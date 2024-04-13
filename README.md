@@ -27,7 +27,7 @@ bash
 Copy code
 npm run build
 
-##Contribución
+## Contribución
 Si deseas contribuir a este proyecto, por favor sigue estas directrices:
 
 Crea una nueva rama (git checkout -b feature/nueva-caracteristica)
